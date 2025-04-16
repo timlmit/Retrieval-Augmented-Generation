@@ -18,7 +18,7 @@
 
 ```
 git clone https://github.com/ThomasJanssen-tech/Build-a-RAG--Retrieval-Augmented-Generation-.git
-cd Build-a-RAG--Retrieval-Augmented-Generation-
+cd Retrieval-Augmented-Generation
 ```
 
 <h3>2. Create a virtual environment</h3>
