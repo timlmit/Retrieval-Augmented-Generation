@@ -1,13 +1,5 @@
 <h1>Build a RAG in 10 minutes with Python, ChromaDB and OpenAI</h1>
 
-<h2>Watch the full tutorial on my YouTube Channel</h2>
-<div>
-
-<a href="https://www.youtube.com/watch?v=JfSmffOyV-8">
-    <img src="thumbnail_small.png" alt="Thomas Janssen Youtube" width="200"/>
-</a>
-</div>
-
 <h2>Prerequisites</h2>
 <ul>
   <li>Python 3.11+</li>
